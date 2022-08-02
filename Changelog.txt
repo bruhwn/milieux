@@ -1,0 +1,19 @@
+Version : v1.0
+
+-- Initial release
+
+
+[See Help Docs/  for detailed changelog]
+
+Landing Page
+1. Created and changed Logo.
+2. Added images to slider background.
+3. Added a link to 'Tumblr'
+4. Added content.
+5. Started Timer.
+
+On Information Page.
+1. Added Content.
+3 Reorganized Team section.
+4. Added Animated Fonts.
+5. Bug found and fixed. Map Section was not working. If removed, the images in landing page won't appear. The CSS was edited in style.css, findint the class ".google-map", the attribut "display: none" was added for the specified div.
